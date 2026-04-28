@@ -1,0 +1,14 @@
+{
+  "name": "solargrid-p2p",
+  "version": "1.0.0",
+  "description": "MVP Mercado P2P Energia",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^1.1.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
